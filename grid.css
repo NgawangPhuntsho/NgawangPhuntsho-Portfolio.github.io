@@ -1,0 +1,38 @@
+.image{
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr;
+  grid-auto-rows: 250px;
+  column-gap: 1%;
+  row-gap: 1%;
+}
+  
+.boc{
+  border: 2px solid darkcyan;
+}
+.lastb{
+background-color: rgb(129, 151, 170);
+border: 1px solid gray;
+margin: 1px;
+}
+.goo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+p { 
+  color: rgb(8, 8, 8);
+  -webkit-animation:colorchange 0.11s infinite alternate;
+}
+@-webkit-keyframes colorchange{
+  0%{
+    color: aqua;
+  }
+  10%{
+    color: chartreuse;
+  }
+  25%{
+    color: brown;
+  }
+  45%{
+    color: blueviolet;
+  }
+}

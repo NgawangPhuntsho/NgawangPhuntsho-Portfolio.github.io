@@ -1,0 +1,17 @@
+.edu{
+  background-color: rgb(69, 129, 129);
+  width: 300px;
+}
+.edu>ul{
+  list-style: none;
+}
+.bfile{
+  background-color: black;
+  color: azure;
+}
+.main{
+  display: flex;
+}
+.cop{
+  flex: 50px;
+}

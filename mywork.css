@@ -1,0 +1,36 @@
+.kkk{
+  display: flex;
+}
+.rrr>img{
+height: 200px;
+width: 200px;
+}
+.rrr{
+  display: flex;
+}
+.gob{
+  display: flex;
+}
+.left,.hhh{
+  border: 3px solid black;
+  margin: 5px;
+  background-color: rgb(167, 180, 180);
+}
+.contain{
+  border: 3px solid black;
+}
+h1,a{
+  font-size: 1rem;
+  color: black;
+  text-decoration: none;
+}
+.row{
+  display: flex;
+  width: 100%;
+}
+.backend,.design,.Fornt-End{
+  border: 3px solid black;
+  margin: 1%;
+  width: 30%;
+  background-color: bisque;
+}
